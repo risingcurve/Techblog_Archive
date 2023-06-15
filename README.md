@@ -6,7 +6,7 @@ This document is a technology blog archive that I created for personal viewing.
 
 ## Korean Company Tech Blog
 |기업명|주소|
-|:---:|:---:|
+|:---:|---|
 |네이버|https://d2.naver.com/home|
 |카카오|https://tech.kakao.com/blog/|
 |라인|https://engineering.linecorp.com/ko/blog|
