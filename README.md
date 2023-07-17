@@ -11,10 +11,10 @@
 |라인|https://engineering.linecorp.com/ko/blog|
 |왓차|https://medium.com/watcha|
 |마켓컬리|https://helloworld.kurly.com/|
-|우아한형제|https://techblog.woowahan.com/|
-|뱅크샐러|https://blog.banksalad.com/|
+|우아한형제들|https://techblog.woowahan.com/|
+|뱅크샐러드|https://blog.banksalad.com/|
 |NHN|https://meetup.nhncloud.com/|
-|하이퍼커넥|https://hyperconnect.github.io/|
+|하이퍼커넥트|https://hyperconnect.github.io/|
 |당근마켓|https://medium.com/daangn|
 |강남언니|https://blog.gangnamunni.com/blog/tech/|
 |요기요|https://techblog.yogiyo.co.kr/|
@@ -41,7 +41,7 @@
 |원티드랩|https://blog.wantedlab.com/|
 |원티드랩(미디엄)|https://medium.com/wantedjobs|
 |몰로코(영문)|https://www.moloco.com/blogs|
-|센드버|https://sendbird.com/ko/blog|
+|센드버드|https://sendbird.com/ko/blog|
 |리멤버|https://blog.dramancompany.com/|
 |데일리호텔|https://dailyhotel.io/|
 |데이블|https://teamdable.github.io/techblog/|
@@ -94,6 +94,7 @@
 |루닛|https://medium.com/lunit/tagged/software-development|
 |엘리시아|https://tech.elysia.land/|
 |레모네이드|https://lemonade-engineering.medium.com/|
+
 <br>
 
 ## 국외 기업
