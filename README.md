@@ -1,10 +1,9 @@
 # 🌲 Tech Blog Archive
-제가 보려고 만든 기업별 기술 블로그 아카이브입니다. <br>
-This document is a technology blog archive that I created for personal viewing.
+제가 보려고 만든 기업별 기술 블로그 아카이브입니다.
 
 <br>
 
-## Korean Company Tech Blog
+## 국내 기업
 |기업명|주소|
 |:---:|---|
 |네이버|https://d2.naver.com/home|
@@ -96,4 +95,31 @@ This document is a technology blog archive that I created for personal viewing.
 |엘리시아|https://tech.elysia.land/|
 |레모네이드|https://lemonade-engineering.medium.com/|
 
-(해외기업은 추후 업데이트 예정)
+## 국외 기업
+|기업명|주소|
+|:---:|---|
+|Google|https://developers.googleblog.com/|
+|Microsoft|https://devblogs.microsoft.com/|
+|Apple|https://developer.apple.com/|
+|Amazon|https://developer.amazon.com/en-US/blogs/alexa|
+|Meta|https://developers.facebook.com/blog/|
+|Netflix|https://netflixtechblog.com/|
+|Linkedin|https://engineering.linkedin.com/blog|
+|Slack|https://slack.engineering/|
+|Airbnb|https://medium.com/airbnb-engineering|
+|Zoom|https://medium.com/zoom-developer-blog|
+|Riot games|https://technology.riotgames.com/|
+|Pinterest|https://medium.com/@Pinterest_Engineering|
+|PayPal|https://medium.com/paypal-tech|
+|ebay|https://tech.ebayinc.com/|
+|twitter|https://blog.twitter.com/engineering/en_us|
+|Figna|https://www.figma.com/blog/section/engineering/|
+|Uber|https://www.uber.com/en-KR/blog/|
+|Google Play|https://medium.com/googleplaydev|
+|Spotify|https://engineering.atspotify.com/|
+|Dropbox|https://dropbox.tech/|
+|Grab|https://engineering.grab.com/|
+|Instagram|https://instagram-engineering.com/|
+|OpenAI|https://openai.com/blog|
+|trivago|https://tech.trivago.com/|
+
