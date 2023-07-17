@@ -114,7 +114,7 @@
 |PayPal|https://medium.com/paypal-tech|
 |ebay|https://tech.ebayinc.com/|
 |twitter|https://blog.twitter.com/engineering/en_us|
-|Figna|https://www.figma.com/blog/section/engineering/|
+|Figma|https://www.figma.com/blog/section/engineering/|
 |Uber|https://www.uber.com/en-KR/blog/|
 |Google Play|https://medium.com/googleplaydev|
 |Spotify|https://engineering.atspotify.com/|
