@@ -3,7 +3,7 @@
 
 <br>
 
-## 국내 기업
+## :kr: 국내 기업
 |기업명|주소|
 |:---:|---|
 |네이버|https://d2.naver.com/home|
@@ -97,7 +97,7 @@
 
 <br>
 
-## 국외 기업
+## :earth_americas: 국외 기업
 |기업명|주소|
 |:---:|---|
 |Google|https://developers.googleblog.com/|
